@@ -3,7 +3,7 @@
 <param ve-config 
        title="Homosexuality and the Trench Poets of the First World War"
        author="Clare Ferrell"
-       banner="[https://upload.wikimedia.org/wiki/File:Mametz_Western_Front_(Frank_Crozier).jpg#/media/File:Mametz_Western_Front_(Frank_Crozier).jpg](https://upload.wikimedia.org/wikipedia/commons/e/ea/Mametz_Western_Front_%28Frank_Crozier%29.jpg)" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/e/ea/Mametz_Western_Front_%28Frank_Crozier%29.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
