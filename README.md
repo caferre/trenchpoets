@@ -3,7 +3,7 @@
 <param ve-config 
        title="Homosexuality and the Trench Poets of the First World War"
        author="Clare Ferrell"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       banner="https://commons.wikimedia.org/wiki/File:Mametz_Western_Front_(Frank_Crozier).jpg#/media/File:Mametz_Western_Front_(Frank_Crozier).jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
