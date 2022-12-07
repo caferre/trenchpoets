@@ -22,9 +22,9 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 # Diaries and Memoirs
 
-## Diaries 1915-1918
+## _Diaries 1915-1918_
 
-## <i>The Complete Memoirs of George Sherston</i>
+## _The Complete Memoirs of George Sherston_
 
 ## Usage and Relevance
 
