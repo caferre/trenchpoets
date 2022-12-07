@@ -20,6 +20,8 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
+## Siegfried Sassoon
+
 # Diaries and Memoirs
 
 ## _Diaries 1915-1918_
@@ -31,8 +33,6 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 how am i going to use these, who are the main characters
 
 # A Deeper Look
-
-## Siegfried Sassoon
 
 ## Sassoon and Tommy
 
