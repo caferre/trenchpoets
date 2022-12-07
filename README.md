@@ -32,6 +32,8 @@ how am i going to use these, who are the main characters
 
 # A Deeper Look
 
+## Siegfried Sassoon
+
 ## Sassoon and Tommy
 
 _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
