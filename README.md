@@ -23,7 +23,7 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 ## Siegfried Sassoon
 
-# What intervention am I making? What question am I asking and trying to answer?
+# Research Questions
 
 # Diaries and Memoirs
 
