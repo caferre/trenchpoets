@@ -25,9 +25,12 @@ Sexuality and gender in the First World War are often studied as it had incredib
 ## Existing literature on WWI, gender, and sexuality 
 
 Existing scholarship has focused intensely on the destabilization of masculinity during the war. That World War I threw the traditional gender norms of many European countries into disarray is not a new concept. As early as the 1920s, in fact, members of the British public were concerned with the “painted boy,” queer men in London, “because he embodied particular historical fears and anxieties related to the experience of the First World War” which “emasculated and feminized” men.[^1] Homosexuality had been a concern to the British for centuries, with the earliest anti queer law being passed in 1533 as a statute against buggery, and the most recent one prior to the war written in 1898. Masculinity was a matter of concern during the war and later became a matter of interest, but it has always been a point of focus. Modern scholars have less worries about an effeminate male scourge and instead tend to examine what happened to masculinity and why. The study of queerness during World War I is also not a new concept, however, it is far younger than studies of gender. In the past thirty or so years, more and more work has been published on specifically the queerness of famous trench poets and how their poetry and personal writings reflect that.
-<param 
-       ve-knightlab-timeline
-       src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1tHswRga3o0z1Zrkqfcdq3Pwwt1EZFyc-GE2161Ob5uI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'>
+<param ve-knightlab-timeline
+       source="1tHswRga3o0z1Zrkqfcdq3Pwwt1EZFyc-GE2161Ob5uI&font" 
+       timenav-position="bottom"
+       hash-bookmark="false" 
+       initial-zoom="1"
+       height="650">
        
 Jason Crouthamel is a significant scholar of queerness in WWI whose work does not focus only on either trench poets or Western European soldiers. His works on German soldiers are particularly helpful for their illumination of the social world of the trenches, and although they are about the opposing army, the observations of camaraderie and closeness as a response to the horrors they were experiencing can easily be applied to the British army as well. Adrian Caesar’s Taking it Like a Man explores the suffering, sacrifice, and sexuality of the war poets and is incredibly useful for studying how poets reconciled their more intellectual, aesthetic tendencies with the extreme violence they did every day. In a similar vein, James Campbell’s essay on the ethics of passivity details the gendered politics of a battalion, which formed largely around class, rank, and racial divisions. Despite being neither explicitly for historians nor about World War I, Eve Sedgwick’s writings on homosociality and homosocial desire are crucial for exploring queerness in the trenches. In her definition the word homosocial
        <blockquote>
