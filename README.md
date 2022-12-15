@@ -6,13 +6,9 @@
        banner="https://upload.wikimedia.org/wikipedia/commons/e/ea/Mametz_Western_Front_%28Frank_Crozier%29.jpg" 
        layout="vertical">
 
-<!-- Entities discussed throughout the essay are typically defined before the essay text and
-     are thus available in all text.  Entity identifiers (QIDs) can be found in either
-     Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q363729"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
+
+<param title="Robert Graves"
+       eid="Q201732">
 
 # Historical Background
 
