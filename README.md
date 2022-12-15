@@ -10,6 +10,14 @@
 <param title="Robert Graves"
        eid="Q201732">
 
+
+
+
+
+
+
+
+
 # Historical Background
 
 Sexuality and gender in the First World War are often studied as it had incredibly destabilizing effects, especially on masculinity. A lack of men at home prompted women to enter the workforce beyond secretarial and white-collar jobs. Shell-shock, physical disabilities, and death prevented men from returning to their old lives after the war, and some soldiers held bitter resentment towards civilians, especially women, for lauding the image of a brave soldier from their relative safety at home. Husbands felt isolated and deeply changed, and wives found them unreachable. During the war, men were separated from their families and the kind of emotional support they had received, mostly from their wives, so they formed close bonds with other men in their squadrons. This need for connection allowed queer soldiers to express their love for their comrades with a level of ambiguity. Trench poets occupy a central role in the study of gender and sexuality in the First World War. Their often scathing notes on the war and horrific descriptions of what they saw have served to cement them in historical and literary analysis of this period. A not insignificant subsection of trench poets were also queer, and their lives provide insight into a queer world in early 20th century United Kingdom. Among these, Siegfried Sassoon is one of the most iconic.
@@ -28,6 +36,11 @@ This joining, or rejoining, of homosociality with desire, with eroticism– it i
 ## Siegfried Sassoon
 
 A perfect example of the intersections between masculinity and sexuality is Siegfried Sassoon. Sassoon was born September 8, 1886 in Kent, England. His father was part of the wealthy Baghdadi and Jewish Sassoon merchant family; his mother was Catholic and part of a well-known family of sculptors. When Sassoon was a young child, his parents divorced quite bitterly and his father died when Sassoon was only nine. Sassoon’s mother played a prominent role in Sassoon’s early life and the two remained in close contact until her death in 1947.
+<param ve-image 
+       label="Siegfried Sassoon in uniform, 1915"
+       description="by George Charles Beresford"
+       license="public domain"
+       url="https://upload.wikimedia.org/wikipedia/commons/0/0b/Siegfried_Sassoon_by_George_Charles_Beresford_%281915%29.jpg">
 
 The Sassoons were an upper-class family, part of British high society, and Sassoon was raised accordingly. He attended a private school where he “was taught notions of Christian good and evil which were mixed with imperialist notions of heroism.”[^3] He would convert to Catholicism later in life, and distanced himself from his Jewish heritage. This private school education laid the foundations for his complicated relationship with self-sacrifice and martyrdom, as well as his harsh judgments of both himself and others. His adoption of a sportsman persona, a fox-hunting gentleman one might say, in order to please his family and his school friends warred against his ‘true’ nature; Sassoon enjoyed time in isolation where he could write poetry and muse about the world. 
 
