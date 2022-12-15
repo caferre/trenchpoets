@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="'And Tommy is Dead': Homosexuality and the Trench Poets of the First World War"
+       title="'And Tommy's Dead': Homosexuality and the Trench Poets of the First World War"
        author="Clare Ferrell"
        banner="https://upload.wikimedia.org/wikipedia/commons/e/ea/Mametz_Western_Front_%28Frank_Crozier%29.jpg" 
        layout="vertical">
