@@ -79,7 +79,7 @@ Even still, there was a tension. He wrote, “…I am never alone here – never
 Siegfried’s Sassoon relationship with David Thomas provides insight into the gendered and queered interactions between officers and their men, between queer soldiers, between the self and the image one presents to the world. World War I disrupted masculinity by destabilizing the men who fought in it and simultaneously separating from the women they had constructed their gender in opposition to. The trenches, and the military more generally, are deeply homosocial spaces that, in some ways, encouraged and even promoted forming close bonds between men to become better adapted to the struggles of modern warfare. These bonds were often intimate and borderline romantic. Despite the deeply homophobic nature of both British society and military masculinity, queer men were nonetheless suddenly able to express their affection for men more openly. They may not have had much ability to actually act on their feelings with any clarity, but they nonetheless formed them. Sassoon was a deeply repressed man who was compelled by his friend Tommy’s physical attractiveness and the archetypal hopeful British youth, of which it is unclear whether Sassoon exaggerated or was the reality. The ways Sassoon expressed his love for Tommy were only allowed to come about in the specific ambiguity of the military as a homosocial and/or homosexual space.
 
 # Footnotes
-
+[^1]: Matt Houlbrook, <i>Queer London: Perils and Pleasures in the Sexual Metropolis, 1918-1957</i> (Chicago, IL: University of Chicago Press, 2005), 226.
 
 # Works Cited
 
