@@ -57,7 +57,7 @@ The Sassoons were an upper-class family, part of British high society, and Sasso
 
 Siegfried joined the army in 1914 with the Royal Welch Fusiliers’ 1st Battalion, who were present for parts of the Battle of the Somme in 1916 and the Third Battle of Ypres in 1917; two of the most brutal conflicts on the Western Front. As gentility, Sassoon was one of the first batch of recruits to enlist purposely as this was well before the draft was instituted and before the nightmares of the war became clear. Serving in the war was both a duty to honor, and a chance to prove oneself. Sassoon, like many other upper-class soldiers, became an officer although he viewed this position with some scorn and certainly disdained other members of the officer class.
 <param ve-knightlab-timeline
-       source="1tHswRga3o0z1Zrkqfcdq3Pwwt1EZFyc-GE2161Ob5uI&font" 
+       source="1tHswRga3o0z1Zrkqfcdq3Pwwt1EZFyc-GE2161Ob5uI&" 
        timenav-position="bottom"
        hash-bookmark="false" 
        initial-zoom="13"
