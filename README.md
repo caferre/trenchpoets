@@ -17,12 +17,15 @@
 <param title="Battle of the Somme"
        eid="Q132568">
 <param title="World War I"
-       eid="Q361">
+       eid="Q361"
+       aliases="First World War">
 <param title="Third Battle of Ypres"
        eid="Q426227">
 <param title="Wilfred Owen"
        eid="Q212719">
-
+<param title="Western Front"
+       eid="Q216184"
+       aliases="the Front">
 
 
 
