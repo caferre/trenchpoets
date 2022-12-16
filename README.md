@@ -88,9 +88,9 @@ Sassoon kept a diary fairly religiously for most of his life. His son, George Sa
 
 Despite his great popularity as a writer, Sassoon would not publish an autobiography of his time in the war until 1945. However, he published a lightly fictionalized recounting of events in a three-book series entitled the Memoirs of George Sherston. These books follow Sherston (the stand in for Sassoon) through his life leading up to the war and through to its end. Many of the figures in Sassoon’s diaries appear in the memoirs under different names, and some passages are almost verbatim taken from his diaries. Memoirs of a Fox-Hunting Man, the first book in the series, was published in 1928, and it deals primarily with Sassoon’s society life before the war, as well as his training and initial deployment to the Front, going up until April 1916. In 1930, he published Memoirs of an Infantry Officer, which covers his time on the Western Front and elsewhere between 1916 and mid 1917. Sherston’s Progress, the third book in the series, is the closest to a diary of Sassoon’s time in Craiglockhart as is known. It begins with a chapter entitled “Rivers” after Doctor W.H.R. Rivers, Sassoon’s primary doctor in the hospital and eventual close friend. It details Sassoon’s experiences during his inpatient care, but interestingly, Robert Graves and Wilfred Owen, someone Sassoon would take a mentorship role for, are mentioned sparingly, despite the two men’s importance to Sassoon. Due to the detail of this section and its stylistic similarity to the other memoirs, which in turn heavily mirror Sassoon’s diaries, it seems likely that Sassoon did, in fact, keep a diary for his time with Rivers. The far more relevant question is not did he keep a diary from July 7th to December 18th, but why was it omitted from the published version, and why was it written back in for the memoirs.
 <param ve-image fit="contain"
-       label=""
+       label="Complete Memoirs"
        description=""
-       license=""
+       license="public domain"
        url="https://pbs.twimg.com/media/FKxH5--aUAAInOx.jpg">
 
 ## Usage and Relevance
