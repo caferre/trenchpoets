@@ -26,7 +26,8 @@
 <param title="Western Front"
        eid="Q216184"
        aliases="the Front">
-
+<param title="West End"
+       eid="Q460735">
 
 
 
@@ -58,6 +59,11 @@ This joining, or rejoining, of homosociality with desire, with eroticism– it i
 A perfect example of the intersections between masculinity and sexuality is Siegfried Sassoon. Sassoon was born September 8, 1886 in Kent, England. His father was part of the wealthy Baghdadi and Jewish Sassoon merchant family; his mother was Catholic and part of a well-known family of sculptors. When Sassoon was a young child, his parents divorced quite bitterly and his father died when Sassoon was only nine. Sassoon’s mother played a prominent role in Sassoon’s early life and the two remained in close contact until her death in 1947.
 
 The Sassoons were an upper-class family, part of British high society, and Sassoon was raised accordingly. He attended a private school where he “was taught notions of Christian good and evil which were mixed with imperialist notions of heroism.”[^3] He would convert to Catholicism later in life, and distanced himself from his Jewish heritage. This private school education laid the foundations for his complicated relationship with self-sacrifice and martyrdom, as well as his harsh judgments of both himself and others. His adoption of a sportsman persona, a fox-hunting gentleman one might say, in order to please his family and his school friends warred against his ‘true’ nature; Sassoon enjoyed time in isolation where he could write poetry and muse about the world. 
+<param ve-image fit="contain"
+       label="Sassoon (front) and brother Hamo with other students at Cambridge University after a ball"
+       description=""
+       license="public doman"
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/First_World_War_1914_-_1918-_War_Poets_HU50506.jpg/1024px-First_World_War_1914_-_1918-_War_Poets_HU50506.jpg">
 
 Siegfried joined the army in 1914 with the Royal Welch Fusiliers’ 1st Battalion, who were present for parts of the Battle of the Somme in 1916 and the Third Battle of Ypres in 1917; two of the most brutal conflicts on the Western Front. As gentility, Sassoon was one of the first batch of recruits to enlist purposely as this was well before the draft was instituted and before the nightmares of the war became clear. Serving in the war was both a duty to honor, and a chance to prove oneself. Sassoon, like many other upper-class soldiers, became an officer although he viewed this position with some scorn and certainly disdained other members of the officer class.
 <param ve-knightlab-timeline
@@ -74,7 +80,7 @@ What does Sassoon’s description, in both his diaries and the Sherston memoirs,
 
 ## Trying to answer a gap in the scholarship
 
-Many writers have focused on Sassoon’s relationship with Robert Graves, another queer war poet who Sassoon was very close to, as an example of his queerness during wartime. Others still have looked at the mentor role he took on with Wilfred Owen to study how these queer poets found and supported each other. But very few delve deep into Sassoon and Tommy. Perhaps it is the ambiguity of Tommy’s own sexuality as it is not known whether he was queer or not, or perhaps because he was a regular footsoldier. He did not come from particularly glorious backgrounds, nor did he write some of the most iconic poems about WWI. From a purely logistical standpoint, there is simply less information about him, making him a less researchable figure. However, Tommy’s importance to Sassoon and the impact his death has on him can not be overstated.
+Many writers have focused on Sassoon’s relationship with Robert Graves, another queer war poet who Sassoon was very close to, as an example of his queerness during wartime. Others still have looked at the mentor role he took on with Wilfred Owen to study how these queer poets found and supported each other. But very few delve deep into Sassoon and Tommy. Perhaps it is the ambiguity of Tommy’s own sexuality as it is not known whether he was queer or not, or perhaps because he was a regular footsoldier (although he did eventually become a lieutenant). He did not come from particularly glorious backgrounds, nor did he write some of the most iconic poems about WWI. From a purely logistical standpoint, there is simply less information about him, making him a less researchable figure. However, Tommy’s importance to Sassoon and the impact his death had on him can not be overstated.
 
 Analyzing this relationship opens up interesting avenues with which to explore homosexual relationships across class and military rank. The queer culture of London had been practically booming before the war, as urban developments gave wealthier queer men places to congregate and made it easier to find communities. In fact, “for many upper and upper-middle class men the opportunities offered by the cosmopolitan West End were supplemented by a tradition of homosociality which often protected them in their sexual exploits.”[^4] This tradition of homosociality was the gentleman persona and culture which was inherently exclusionary of women, and men not of their standing or race, and which gave these men, nearly required them, to form close bonds with other men. When war broke out, upper class men were among the first to willingly enlist, as they could often be granted officership and given the chance to prove their mettle in combat. War proved to be a similar space where a tradition of homosociality protected, somewhat, the queer men who moved within it. Queer soldiers felt they could be more open about their sexuality because the environment was already fostering same sex relationships,[^5] expounded by a need for emotional support and intimacy that could no longer be provided by their wives.[^6]
 
