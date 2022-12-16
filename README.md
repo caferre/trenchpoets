@@ -50,6 +50,7 @@ Jason Crouthamel is a significant scholar of queerness in WWI whose work does no
        <blockquote>
        “describes social bonds between persons of the same sex; it is a neologism, obviously formed by analogy with "homosexual," and just as obviously meant to be distinguished from "homosexual." In fact, it is applied to such activities as "male bonding," which may, as in our society, be characterized by intense homophobia, fear and hatred of homosexuality. To draw the "homosocial" back into the orbit of "desire," of the potentially erotic, then, is to hypothesize the potential unbrokenness of a continuum between homosocial and homosexual– a continuum whose visibility, for men, in our society, is radically disrupted.”[^2]
        </blockquote>
+       
 This joining, or rejoining, of homosociality with desire, with eroticism– it is part and parcel with the work being done in World War I among queer and heterosexual soldiers alike.
 
 ## Siegfried Sassoon
