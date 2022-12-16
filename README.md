@@ -10,18 +10,18 @@
 <param title="Robert Graves"
        eid="Q201732">
 <param title="David Thomas"
-       eid=""
+       eid="Q5232744"
        aliases="David "Tommy" Thomas">
 <param title="Royal Welch Fusiliers"
-       eid="">
+       eid="Q752760">
 <param title="Battle of the Somme"
-       eid="">
+       eid="Q132568">
 <param title="World War I"
-       eid="">
+       eid="Q361">
 <param title="Third Battle of Ypres"
-       eid="">
+       eid="Q426227">
 <param title="Wilfred Owen"
-       eid="">
+       eid="Q212719">
 
 
 
