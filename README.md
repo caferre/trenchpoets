@@ -9,8 +9,12 @@
 
 <param title="Robert Graves"
        eid="Q201732">
-
-
+david thomas
+royal welch fusiliers
+battle of the somme
+world war i
+third battle of ypres
+wilfred owen
 
 
 
@@ -41,11 +45,7 @@ This joining, or rejoining, of homosociality with desire, with eroticism– it i
 ## Siegfried Sassoon
 
 A perfect example of the intersections between masculinity and sexuality is Siegfried Sassoon. Sassoon was born September 8, 1886 in Kent, England. His father was part of the wealthy Baghdadi and Jewish Sassoon merchant family; his mother was Catholic and part of a well-known family of sculptors. When Sassoon was a young child, his parents divorced quite bitterly and his father died when Sassoon was only nine. Sassoon’s mother played a prominent role in Sassoon’s early life and the two remained in close contact until her death in 1947.
-<param ve-image 
-       label="Siegfried Sassoon in uniform, 1915"
-       description="by George Charles Beresford"
-       license="public domain"
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0b/Siegfried_Sassoon_by_George_Charles_Beresford_%281915%29.jpg">
+
 
 The Sassoons were an upper-class family, part of British high society, and Sassoon was raised accordingly. He attended a private school where he “was taught notions of Christian good and evil which were mixed with imperialist notions of heroism.”[^3] He would convert to Catholicism later in life, and distanced himself from his Jewish heritage. This private school education laid the foundations for his complicated relationship with self-sacrifice and martyrdom, as well as his harsh judgments of both himself and others. His adoption of a sportsman persona, a fox-hunting gentleman one might say, in order to please his family and his school friends warred against his ‘true’ nature; Sassoon enjoyed time in isolation where he could write poetry and muse about the world. 
 
@@ -77,8 +77,19 @@ Despite his great popularity as a writer, Sassoon would not publish an autobiogr
 Looking at the diary and the memoirs combined allows for an examination of Sassoon’s self-censorship. Comparing the content in the two, in a way checking them against each other, sheds light on what aspects of his life Sassoon was comfortable sharing and exploring at different times. The memoirs are certainly personal and intimate, however there is some limitation of Sassoon’s feelings that are not rage and sorrow about the war generally speaking. When his friends are killed, Sassoon as Sherston is able to control the emotions he feels. If something is too raw, perhaps too complicated in his mind for audience’s to understand, he tones it down or alters it slightly. Rupert Hart-Davis, editor of Sassoon’s diaries, writes that “[Sassoon] longed for praise and recognition, but he was so instinctively reclusive”[^13] that he published many poems and Memoirs of a Fox-Hunting Man anonymously at first. He was very careful in how he presented himself to the world and it’s unclear how much of that was due to his innate solitary tendencies, his socialization in British high society, famously very reserved, or a response to his queerness, a fact of himself which he never truly accepted writing in a letter from 1949 that “the whole point of life is ‘to try [and] rise above one’s waistline’”[^14]
 
 Of all the figures in these texts, the most useful for studying Sassoon’s relationship with his sexuality are Robert Graves and David “Tommy” Thomas. In the memoirs, Robert Graves becomes David Cromlech and Tommy becomes Dick Tiltwood. It is with these two people that discrepancies between the texts are particularly obvious. Graves and Sassoon write to each other almost constantly, sending each other snippets of their poetry, talking about their experiences at the front, and their lives more generally. They also spend a significant amount of time together when the two are on leave at the same time. Yet, in the Sherston memoirs, the character of David Cromlech is practically nonexistent. This may be due to a possible falling out Graves and Sassoon had after Graves’ marriage, making Sassoon less inclined to include him when he wrote the memoirs several years after the fact. It may also be due to the very fact of their closeness and frequent correspondence being a potential risk if the two wished to dissuade discussion of their sexualities.
+<param ve-image 
+       label="Robert Graves in 1929"
+       description="unknown photographer"
+       license="public domain"
+       url="https://upload.wikimedia.org/wikipedia/commons/6/61/Robert_Graves_1929_%28cropped%29.jpg">
 
 Moving on from Robert Graves, there is the character of Tommy. David “Tommy” Thomas was born in 1895 in a small, rural Welsh town, and not much is known of his life except his parent’s names and that he went to Christ College in Brecon before enlisting. He was assigned to the same regiment and battalion as Sassoon, and Graves, and the two quickly became good friends despite their distance in age, class, and rank.
+<param ve-image 
+       label="David Thomas while at Christ College Brecon"
+       description="recently found by the school archivist. file retrieved from https://www.walesonline.co.uk/news/wales-news/discovered-lost-photos-welsh-first-7132397"
+       license="public domain"
+       url="https://i2-prod.walesonline.co.uk/incoming/article7131343.ece/ALTERNATES/s1227b/SJP_MAI_160514ABER6911_01JPJPG.jpg">
+
 
 # A Deeper Look
 ## Sassoon and Tommy
@@ -90,10 +101,16 @@ Based on the plethora of times Sassoon describes Tommy as handsome, and kind, an
 Tommy is Sassoon’s reason to carry on at times. For most of the war, Sassoon seriously struggled with the intense horrors he witnessed and flirted with suicidality. He met Tommy before the soul-crushing ennui had really set in for the first time, but he was still working to prepare himself for what he considered the eventuality of his death, yet Tommy complicated things. When he first arrived at the Front, realities started to set in and he began to understand how precarious his situation was “[b]ut even then it wasn’t easy to think of dying…Still less so when Dick was with me.”[^18] In context, it seems that Sassoon is referring to Tommy’s ability to remind him of his fox-hunting days, and this is certainly a large part of it, but Sassoon also says that Tommy is his bright spot before this. Whether or not his love for Tommy was romantic or not, he is able to express it more openly than would be expected because of the nature of the war. Men needed emotional support and intimacy and they could not find it with women, who were too far away and could not understand the horrors of war, so they turned to other men.[^19]
 
 Sadly, Tommy was killed in action on March 19th, 1916. Sassoon’s diaries do not hold back on his anguish. Tommy is mentioned frequently over the next handful of entries, and Sassoon’s mood takes a rather dour turn. He doesn’t write for nearly a week, and when he resumes it is clear that he’s struggling. On March 26th, he muses on the weather and the dreary scenery and on returning home– and he ends his entry with “[a]nd Tommy’s dead.”[^20] It’s one of the most vulnerable entries at this point in the diary, expressing the intensity of Sassoon’s grief in his uncharacteristic succinctness. The suicidal ideations no longer have a reason to be tempered and Sassoon begins putting himself into increasingly dangerous situations, and behaving with little to no regard for his own life. “They say I am trying to get myself killed. Am I? I don’t know,”[^21] he notes on April 11th, a little under a month after Tommy’s death. Sassoon’s devastation at losing Tommy and the utter bleakness of the world afterwards is not owed entirely to the bond between them, but to the youthful hope that Tommy represented. Through a rather interesting coincidence, “Tommy” happens to be the nickname given to British soldiers as a whole in World War I and David Thomas, at least in Sassoon’s memory of him, truly exemplifies that young and common soldier who held the weight of the nation. When he dies, it is as though Britain’s hope dies with him. It is possible, however, that the depth of this idolization is either a purposeful attempt at obscuring Sassoon’s deep love for his friend and the closest he can get to loving him openly, or an unconscious expression of his intense affection that placed Tommy upon a pedestal. 
+<param ve-image 
+       label="Sasson (left) and Tommy (right)"
+       description="Unknown date and photographer"
+       license="public domain"
+       url="https://i2-prod.walesonline.co.uk/incoming/article7131349.ece/ALTERNATES/s810/SJP_MAI_160514ABER6915_01JPJPG.jpg">
 
 ## Sassoon and Graves
 
 Another of Sassoon’s close friends was Robert Graves. The two frequently wrote to each other and had a flirtatious correspondence at times. Like Tommy, however, Graves is mentioned far less in the memoirs. He appears at much more of a distance than expected given the close relationship the two can be seen to have in Sassoon’s diaries. Graves was the person who persuaded Sassoon to go before a medical panel after his inflammatory anti-war letter and claim or convince them he was suffering from shell-shock, so as to avoid execution for treason. Near the end of 1917, Graves gives Sassoon “his apologies for his engagement to Miss [Nancy] Nicholson,”[^22] a woman Graves had met some time ago and apparently carried out a courtship with. He is mentioned less frequently for the rest of the entries, which go until armistice in 1918. That he was such a prevalent figure in Sassoon’s life and suddenly disappeared upon his heterosexual marriage is worth noting. Sassoon’s mention of that marriage is also interesting. It is rather curt, reading only “Robert Graves is married on Tuesday. Sent me his new poem ‘The God Poetry’ yesterday. Very fine.”[^23] The actual mention of the marriage of who seems to be his best friend is a mere six word sentence in the middle of a rather lengthy diary entry. Considering Graves’ ‘apologies’ for his engagement, joking or not, it is rather odd that Sassoon spends so little time discussing it. Graves was also a queer trench poet and it seems highly likely that they had some kind of relationship with each other. Sassoon mentions him a lot; by referencing his poetry, or mentioning a new letter he received, or expressing concerns about Graves’ stationing on the Front.
+
 
 # Concluding thoughts
 
