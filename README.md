@@ -138,29 +138,29 @@ Siegfried’s Sassoon relationship with David Thomas provides insight into the g
 # Footnotes
 [^1]: Matt Houlbrook, <i>Queer London: Perils and Pleasures in the Sexual Metropolis, 1918-1957</i> (Chicago, IL: University of Chicago Press, 2005), 226.
 [^2]: Eve Kosofsky Sedgwick, “From Between Men: English Literature and Male Homosocial Desire,” in <i>The Norton Anthology of Theory and Criticism</i>, ed. Vincent B. Leitch (New York, NY: W.W. Norton & Company, 2001), pp. 2434-2438, 2434-2435.
-[^3]:
-[^4]:
-[^5]:
-[^6]:
-[^7]:
-[^8]:
-[^9]:
-[^10]:
-[^11]:
-[^12]:
-[^13]:
-[^14]:
-[^15]:
-[^16]:
-[^17]:
-[^18]:
-[^19]:
-[^20]:
-[^21]:
-[^22]:
-[^23]:
-[^24]:
-[^25]:
+[^3]: Adrian Caesar, <i>Taking It like a Man: Suffering, Sexuality, and the War Poets: Brooke, Sassoon, Owen, Graves</i>, (Manchester, UK: Manchester University Press, 1993), 63.
+[^4]: Matt Cook, <i>London and the Culture of Homosexuality, 1885-1914</i>, (Cambridge, UK: Cambridge University Press, 2003), 29.
+[^5]: Jason Crouthamel, “Love in the Trenches: German Soldiers' Conceptions of Sexual Deviance and Hegemonic Masculinity in the First World War,” in <i>Gender and the First World War</i>, ed. Hämmerle Christa, Überegger Oswald, and Birgitta Bader-Zaar (Houndmills, UK: Palgrave Macmillan, 2014), pp. 52-71, 60-61.
+[^6]: Crouthamel, “Love in the Trenches,” 58.
+[^7]: James S. Campbell “‘For You May Touch Them Not’: Misogyny, Homosexuality, and the Ethics of Passivity in First World War Poetry,” <i>ELH</i> 64, no. 3 (1997): 823–42, http://www.jstor.org/stable/30030241, 831.
+[^8]: Crouthamel, “Love in the Trenches,” 54.
+[^9]: Siegfried Sassoon, <i>Siegfried Sassoon Diaries, 1915-1918</i> (London, UK: Faber and Faber, 1983), 177.
+[^10]: Sassoon, <i>Diaries 1915-1918</i>, 119.
+[^11]: Ibid., 102.
+[^12]: Ibid., 107.
+[^13]: Ibid., 10.
+[^14]: Caesar, <i>Taking it Like a Man</i>, 108-109.
+[^15]: Siegfried Sassoon, <i>The Complete Memoirs of George Sherston</i>, (London, UK: Faber and Faber, 1999), 241.
+[^16]: Caesar, <i>Taking it Like a Man</i>, 8.
+[^17]: Sassoon, <i>Diaries 1915-1918</i>, 44. The poems in question are “A Subaltern,” “The Last Meeting,” and “A Letter Home”.
+[^18]: Sasson, <i>Complete George Sherston</i>, 256.
+[^19]: Crouthamel, “Love in the Trenches,”  58.
+[^20]: Sassoon, <i>Diaries 1915-1918</i>, 46.
+[^21]: Ibid., 54.
+[^22]: Ibid., 198.
+[^23]: Ibid., 203
+[^24]: Caesar, <i>Taking it Like a Man</i>, 90.
+[^25]: Sassoon, <i>Diaries 1915-1918</i>, 94.
 
 # Works Cited
 Caesar, Adrian. <i>Taking It like a Man: Suffering, Sexuality, and the War Poets: Brooke, Sassoon, Owen, Graves</i>. Manchester, UK: Manchester University Press, 1993. 
