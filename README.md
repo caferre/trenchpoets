@@ -60,7 +60,8 @@ Siegfried joined the army in 1914 with the Royal Welch Fusiliers’ 1st Battalio
        source="1tHswRga3o0z1Zrkqfcdq3Pwwt1EZFyc-GE2161Ob5uI&" 
        timenav-position="bottom"
        hash-bookmark="false" 
-       initial-zoom="13"
+       initial-zoom="2"
+       start_at_slide="14"
        height="650">
 
 # Research Question
