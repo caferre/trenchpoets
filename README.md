@@ -9,12 +9,19 @@
 
 <param title="Robert Graves"
        eid="Q201732">
-david thomas
-royal welch fusiliers
-battle of the somme
-world war i
-third battle of ypres
-wilfred owen
+<param title="David Thomas"
+       eid=""
+       aliases="David "Tommy" Thomas">
+<param title="Royal Welch Fusiliers"
+       eid="">
+<param title="Battle of the Somme"
+       eid="">
+<param title="World War I"
+       eid="">
+<param title="Third Battle of Ypres"
+       eid="">
+<param title="Wilfred Owen"
+       eid="">
 
 
 
@@ -88,7 +95,7 @@ Of all the figures in these texts, the most useful for studying Sassoon’s rela
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/6/61/Robert_Graves_1929_%28cropped%29.jpg">
 
-Moving on from Robert Graves, there is the character of Tommy. David “Tommy” Thomas was born in 1895 in a small, rural Welsh town, and not much is known of his life except his parent’s names and that he went to Christ College in Brecon before enlisting. He was assigned to the same regiment and battalion as Sassoon, and Graves, and the two quickly became good friends despite their distance in age, class, and rank.
+Moving on from Robert Graves, there is the character of Tommy. David Cuthbert Thomas, nicknamed Tommy, was born in 1895 in a small, rural Welsh town, and not much is known of his life except his parent’s names and that he went to Christ College in Brecon before enlisting. He was assigned to the same regiment and battalion as Sassoon, and Graves, and the two quickly became good friends despite their distance in age, class, and rank.
 <param ve-image fit="contain"
        label="David Thomas while at Christ College Brecon"
        description="recently found by the school archivist. file retrieved from https://www.walesonline.co.uk/news/wales-news/discovered-lost-photos-welsh-first-7132397"
