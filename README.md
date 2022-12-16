@@ -46,10 +46,15 @@ This joining, or rejoining, of homosociality with desire, with eroticism– it i
 
 A perfect example of the intersections between masculinity and sexuality is Siegfried Sassoon. Sassoon was born September 8, 1886 in Kent, England. His father was part of the wealthy Baghdadi and Jewish Sassoon merchant family; his mother was Catholic and part of a well-known family of sculptors. When Sassoon was a young child, his parents divorced quite bitterly and his father died when Sassoon was only nine. Sassoon’s mother played a prominent role in Sassoon’s early life and the two remained in close contact until her death in 1947.
 
-
 The Sassoons were an upper-class family, part of British high society, and Sassoon was raised accordingly. He attended a private school where he “was taught notions of Christian good and evil which were mixed with imperialist notions of heroism.”[^3] He would convert to Catholicism later in life, and distanced himself from his Jewish heritage. This private school education laid the foundations for his complicated relationship with self-sacrifice and martyrdom, as well as his harsh judgments of both himself and others. His adoption of a sportsman persona, a fox-hunting gentleman one might say, in order to please his family and his school friends warred against his ‘true’ nature; Sassoon enjoyed time in isolation where he could write poetry and muse about the world. 
 
 Siegfried joined the army in 1914 with the Royal Welch Fusiliers’ 1st Battalion, who were present for parts of the Battle of the Somme in 1916 and the Third Battle of Ypres in 1917; two of the most brutal conflicts on the Western Front. As gentility, Sassoon was one of the first batch of recruits to enlist purposely as this was well before the draft was instituted and before the nightmares of the war became clear. Serving in the war was both a duty to honor, and a chance to prove oneself. Sassoon, like many other upper-class soldiers, became an officer although he viewed this position with some scorn and certainly disdained other members of the officer class.
+<param ve-knightlab-timeline
+       source="1tHswRga3o0z1Zrkqfcdq3Pwwt1EZFyc-GE2161Ob5uI&font" 
+       timenav-position="bottom"
+       hash-bookmark="false" 
+       initial-zoom="13"
+       height="650">
 
 # Research Question
 
