@@ -190,6 +190,7 @@ Siegfried’s Sassoon relationship with David Thomas provides insight into the g
 [^25]: Sassoon, <i>Diaries 1915-1918</i>, 94.
 
 # Works Cited
+
 Caesar, Adrian. <i>Taking It like a Man: Suffering, Sexuality, and the War Poets: Brooke, Sassoon, Owen, Graves</i>. Manchester, UK: Manchester University Press, 1993. 
 Campbell, James S. “‘For You May Touch Them Not’: Misogyny, Homosexuality, and the Ethics of Passivity in First World War Poetry.” <i>ELH</i> 64, no. 3 (1997): 823–42. http://www.jstor.org/stable/30030241.
 
