@@ -154,6 +154,7 @@ Another of Sassoon’s close friends was Robert Graves. The two frequently wrote
        description="by Lady Ottoline Morrell"
        license="© National Portrait Gallery, London"
        url="https://www.iwm.org.uk/sites/default/files/styles/text_with_media_large_desktop_1x/public/2018-06/2_29.jpg?itok=Pq9z8Diz">
+
 # Concluding thoughts
 
 Sassoon struggled with his desire for solitude and more intellectual pursuits and the expected presentation of masculinity. He threw himself into gentlemanly pursuits, like fox-hunting, but it wasn’t until he “was in the army in France that the aesthete and the sportsman could happily co-exist; where anxieties about his homosexuality could be allayed by ‘manly’ heroism.”[^24] In the army he was able to combine the masculine, disciplined, strong man with the poetic, and likely in his mind, effeminate and weaker man through his relationships with the other men, his position as officer, and his writing. If the sportsman identity reflects a kind of homosociality, then the aesthete represents his homosexuality and it is Sassoon’s war poet status which finally allowed, if not self-acceptance, then a self existence. 
