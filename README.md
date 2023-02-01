@@ -192,9 +192,15 @@ Siegfried’s Sassoon relationship with David Thomas provides insight into the g
 # Works Cited
 Caesar, Adrian. <i>Taking It like a Man: Suffering, Sexuality, and the War Poets: Brooke, Sassoon, Owen, Graves</i>. Manchester, UK: Manchester University Press, 1993. 
 Campbell, James S. “‘For You May Touch Them Not’: Misogyny, Homosexuality, and the Ethics of Passivity in First World War Poetry.” <i>ELH</i> 64, no. 3 (1997): 823–42. http://www.jstor.org/stable/30030241.
+
 Cook, Matt. <i>London and the Culture of Homosexuality, 1885-1914</i>. Cambridge, UK: Cambridge University Press, 2003. 
+
 Crouthamel, Jason. “Love in the Trenches: German Soldiers' Conceptions of Sexual Deviance and Hegemonic Masculinity in the First World War.” Essay. In <i>Gender and the First World War</i>, edited by Hämmerle Christa, Überegger Oswald, and Birgitta Bader-Zaar, 52–71. Houndmills, UK: Palgrave Macmillan, 2014. 
+
 Houlbrook, Matt. <i>Queer London: Perils and Pleasures in the Sexual Metropolis, 1918-1957</i>. Chicago, IL: University of Chicago Press, 2005. 
+
 Sassoon, Siegfried, and Rupert Hart-Davis. <i>Siegfried Sassoon Diaries, 1915-1918</i>. London, UK: Faber and Faber, 1983. 
+
 Sassoon, Siegfried. <i>The Complete Memoirs of George Sherston</i>. London, UK: Faber and Faber, 1999.
+
 Sedgwick, Eve Kosofsky. “From Between Men: English Literature and Male Homosocial Desire.” Essay. In <i>The Norton Anthology of Theory and Criticism</i>, edited by Vincent B. Leitch, 2434–38. New York, NY: W.W. Norton & Company, 2001.
